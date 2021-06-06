@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo App</string>
+    <string name="search_photos">Search Flickr</string>
+    <string name="flickr_api_key">7ea174d0ab7260c0a1232023cddfd128</string>
+</resources>
